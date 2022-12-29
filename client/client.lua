@@ -15,7 +15,6 @@ end
 
 function SetListening(listening)
     Listening = listening
-    print('[Flitsmeister] Listening:', listening)
 end
 
 Citizen.CreateThread(function() 
