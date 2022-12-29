@@ -14,5 +14,6 @@ files {
 ui_page 'ui/build/index.html'
 
 exports {
-    "AddSpeedCameras"
+    "AddSpeedCameras",
+    "SetListening"
 }
